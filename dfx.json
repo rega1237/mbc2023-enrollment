@@ -1,7 +1,11 @@
 {
   "canisters": {
     "first_canister": {
-      "main": "main.mo",
+      "main": "activities/first_canister/main.mo",
+      "type": "motoko"
+    },
+    "calculator": {
+      "main": "activities/calculator/main.mo",
       "type": "motoko"
     }
   }
