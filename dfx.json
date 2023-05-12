@@ -7,6 +7,10 @@
     "calculator": {
       "main": "activities/calculator/main.mo",
       "type": "motoko"
+    },
+    "homework_diary": {
+      "main": "activities/homework_diary/main.mo",
+      "type": "motoko"
     }
   }
 }
